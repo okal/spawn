@@ -6,4 +6,4 @@ Spawn: An incredibly annoying uncloseable window. Using this to learn PyGTK.
 license
 =======
 
-WTFPL
+[WTFPL](http://sam.zoy.org/wtfpl/)
