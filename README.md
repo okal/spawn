@@ -1,4 +1,9 @@
 spawn
 =====
 
-Spawn: An incredibly annoying self replicating window
+Spawn: An incredibly annoying uncloseable window. Using this to learn PyGTK.
+
+license
+=======
+
+WTFPL
